@@ -1,16 +1,9 @@
 /* ****************************************************
-   Author   : Alicia Giro
    Course   : COP 2270 Sec ANSI C Online
-   URL      : http://ocelot.aul.fiu.edu/~agiro016
-   Professor: Michael Robinson
    Program  : 1, Numerical Computations and Loops
               This program performs various mathematical operations,
               demonstrates loops, and displays personal information
-   Due Date : 10/04/2025
-   
-   I certify that this work is my own alone.
-   
-   ..........Alicia Giro..........
+   Date : October 2025
    ****************************************************
 */
 
@@ -250,7 +243,7 @@ void numericalComputations()
     int main()
 {
     /* Declare variables for personal info */
-    char myName[] = "Alicia Giro";
+    char myName[] = "Student";
     char myMajor[] = "Cybersecurity";
     int myCreditsCompleted = 87;
     int myCreditsTaking = 12;
