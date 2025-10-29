@@ -1,5 +1,4 @@
 /* ****************************************************
-   Course   : COP 2270 Sec ANSI C Online
    Program  : 1, Numerical Computations and Loops
               This program performs various mathematical operations,
               demonstrates loops, and displays personal information
