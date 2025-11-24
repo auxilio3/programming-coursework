@@ -3,7 +3,7 @@
    Program  : 3, Multidimensional Arrays and Sorting
               This program demonstrates 2D arrays, sorting, ASCII values,
               error handling, and parallel arrays
-   Date     : November 2025
+   Date     : October 2025
    ****************************************************
 */
 
