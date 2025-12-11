@@ -1,5 +1,5 @@
 /* *********************************************************************
-   Course    : COP 2270 - ANSI C Programming
+   Course    : COP 2270 - ANSI C Programming 
    Program # : 4
    Purpose   : Text File Processing
                This program reads a text file character by character,
