@@ -140,14 +140,3 @@ int main()
     return 0;
 } /* end int main */
 ```
-
----
-
-## **3. Text Input File**
-
-**Filename:** `textFileInput.txt`
-```
-Student Name
-Florida International University
-This is a text file to be read line by line
-Making a backup copy of this input file
